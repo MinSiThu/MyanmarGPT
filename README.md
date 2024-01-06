@@ -1,6 +1,8 @@
 # MyanmarGPT - Myanmar Generative Pretrained Transformer
  **The very first and largest usable Burmese Language GPT in Myanmar**
 
+<img src="./assets/MyanmarGPT Big.jpeg" width=400 height=400>
+
 - Free to use and open-source
 - Lightweight and Accurate
 - Burmese + International Languages (Total 61 Languages)
@@ -35,6 +37,8 @@ pip install transformers
 ### MyanmarGPT
 
 ```python
+# Using Pipeline
+
 from transformers import pipeline
 
 pipe = pipeline("text-generation", model="jojo-ai-mst/MyanmarGPT")
@@ -44,6 +48,8 @@ print(outputs)
 ```
 
 ```python
+# Using AutoTokenizer and CausalLM
+
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
@@ -60,6 +66,8 @@ print(tokenizer.decode(output[0], skip_special_tokens=True))
 ### MyanmarGPT-Big
 
 ```python
+# Using Pipeline
+
 from transformers import pipeline
 
 pipe = pipeline("text-generation", model="jojo-ai-mst/MyanmarGPT-Big")
@@ -69,6 +77,8 @@ print(outputs)
 ```
 
 ```python
+# Using AutoTokenizer and CausalLM
+
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
