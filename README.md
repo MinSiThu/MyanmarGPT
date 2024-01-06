@@ -8,7 +8,7 @@
 - Burmese + International Languages (Total 61 Languages)
 - And, It is Awesome!
 
-MyanmarGPT is the very first and largest Burmese language GPT in Myanmar with strong community contributions. It was created by me, [Min Si Thu](https://www.linkedin.com/in/min-si-thu/).
+MyanmarGPT is the very first and largest **usable** Burmese language GPT in Myanmar with strong community contributions. It was created by me, [Min Si Thu](https://www.linkedin.com/in/min-si-thu/).
 
 These two models are trained by using private property datasets, manually clean by Min Si Thu.
 
