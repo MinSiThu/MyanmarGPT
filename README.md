@@ -93,7 +93,7 @@ print(tokenizer.decode(output[0], skip_special_tokens=True))
 
 ### About MyanmarGPT interview with DVB
 
-<iframe width="898" height="505" src="https://www.youtube.com/embed/RujWqJwmrLM" title="Chat GPT (AI) ကို မြန်မာလို သုံးစွဲနိုင်တော့မလား - DVB Youth Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[[<iframe width="898" height="505" src="https://www.youtube.com/embed/RujWqJwmrLM" title="Chat GPT (AI) ကို မြန်မာလို သုံးစွဲနိုင်တော့မလား - DVB Youth Voice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://youtu.be/RujWqJwmrLM)](https://youtu.be/RujWqJwmrLM)
 
 ## Contributors
 
