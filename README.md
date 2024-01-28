@@ -10,11 +10,14 @@
 
 MyanmarGPT is the very first and largest **usable** Burmese language GPT in Myanmar with strong community contributions. It was created by me, [Min Si Thu](https://www.linkedin.com/in/min-si-thu/).
 
-These two models are trained by using private property datasets, manually clean by Min Si Thu.
+These two models are trained by using private property datasets, manually cleaned by Min Si Thu.
 
 There are two versions of MyanmarGPT at the moment, 2023 December.
 - [MyanmarGPT](https://huggingface.co/jojo-ai-mst/MyanmarGPT) - 128 M parameters
 - [MyanmarGPT-Big](https://huggingface.co/jojo-ai-mst/MyanmarGPT-Big) - 1.42 B parameters
+
+Extended, released in 2024, January 28.
+- [MyanmarGPT-Chat](https://huggingface.co/jojo-ai-mst/MyanmarGPT-Chat) - 128 M parameters
 
 ## MyanmarGPT
 
@@ -23,13 +26,21 @@ It is very lightweight and easy to use on all devices.
 
 ## MyanmarGPT-Big
 
-MyanmarGPT-Big is 1.42 billion parameters Multi-Language Model.
-It is enterprise-level LLM for Burmese Language mainly and other languages.
+MyanmarGPT-Big is a 1.42 billion parameters Multi-Language Model.
+It is an enterprise-level LLM for Burmese Language mainly and other languages.
 Currently supports 61 Languages.
+
+## MyanmarGPT-Chat
+
+Fine-tuned on MyanmarGPT, question answering model for the Burmese language. 
+With the knowledge of "A Brief History of the World"
+
+How to use - [Tutorial on Building MyanmarGPT-Chat on local machine](https://www.kaggle.com/code/minsithu/running-myanmargpt-chat-with-burmese-language/notebook)_
+
 
 ## How to use MyanmarGPT and MyanmarGPT-Big
 
-Install huggingface transformer
+Install hugging face transformer
 ```shell
 pip install transformers
 ```
