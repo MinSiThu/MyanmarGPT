@@ -19,6 +19,9 @@ There are two versions of MyanmarGPT at the moment, 2023 December.
 Extended, released in 2024, January 28.
 - [MyanmarGPT-Chat](https://huggingface.co/jojo-ai-mst/MyanmarGPT-Chat) - 128 M parameters
 
+Released in 2024, February 23.
+- [MyanmarGPTX](https://huggingface.co/jojo-ai-mst/MyanmarGPTX) - Faster, Lightweight and Multiplatform
+
 ## MyanmarGPT
 
 MyanmarGPT is 128 million parameters Burmese Language Model.
@@ -36,6 +39,11 @@ Fine-tuned on MyanmarGPT, question answering model for the Burmese language.
 With the knowledge of "A Brief History of the World"
 
 How to use - [Tutorial on Building MyanmarGPT-Chat on local machine](https://www.kaggle.com/code/minsithu/running-myanmargpt-chat-with-burmese-language/notebook)
+
+# MyanmarGPTX
+
+Fine-tuned on MyanmarGPT-Chat, question answering model for the Burmese language.
+Faster, lightweight and multiplatform available model.
 
 
 ## How to use MyanmarGPT and MyanmarGPT-Big
