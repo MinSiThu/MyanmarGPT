@@ -38,7 +38,7 @@ Currently supports 61 Languages.
 Fine-tuned on MyanmarGPT, question answering model for the Burmese language. 
 With the knowledge of "A Brief History of the World"
 
-How to use - [Tutorial on Building MyanmarGPT-Chat on local machine](https://www.kaggle.com/code/minsithu/running-myanmargpt-chat-with-burmese-language/notebook)_
+How to use - [Tutorial on Building MyanmarGPT-Chat on local machine](https://www.kaggle.com/code/minsithu/running-myanmargpt-chat-with-burmese-language/notebook)
 
 # MyanmarGPTX
 
